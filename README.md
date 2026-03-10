@@ -72,7 +72,7 @@ This suggests **lower profit margins in the Furniture category**.
 
 ### Visualization
 
-![Sales by Category](Plots/sales_by_category.png)
+![Sales by Category](Plots/Sales by Category.png)
 
 The boxplot shows:
 
