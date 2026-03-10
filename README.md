@@ -72,7 +72,7 @@ This suggests **lower profit margins in the Furniture category**.
 
 ### Visualization
 
-![Sales by Category](Plots/Sales by Category.png)
+![Sales by Category](Plots/Sales_by_Category.png)
 
 The boxplot shows:
 
@@ -96,7 +96,7 @@ Profitability varies significantly across regions.
 
 ### Visualization
 
-![Profit by Region](plots/profit_by_region.png)
+![Profit by Region](Plots/Profit_by_Region.png)
 
 The **West region leads in profitability**, suggesting stronger market performance or better pricing strategy.
 
@@ -114,7 +114,7 @@ A key business question is how discounts affect profitability.
 
 ### Visualization
 
-![Discount vs Profit](plots/discount_profit_relationship.png)
+![Discount vs Profit](Plots/Discount_Profit_Relationship.png)
 
 The scatter plot clearly shows that **higher discounts tend to produce negative profits**, indicating potential over-discounting.
 
@@ -131,7 +131,7 @@ This suggests strong **business growth in later years**.
 
 ### Visualization
 
-![Sales Over Time](plots/sales_over_time.png)
+![Sales Over Time](Plots/Sales_Over_Time.png)
 
 ---
 
