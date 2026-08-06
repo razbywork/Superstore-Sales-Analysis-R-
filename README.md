@@ -176,13 +176,12 @@ An interactive dashboard was built to visualize key business metrics.
 
 # 📌 Key Business Insights
 
-1️⃣ Technology products drive the highest profits  
+1️⃣ Office Supplies products drive the highest profit margin  
 2️⃣ Furniture has weak profitability despite high sales  
 3️⃣ Large discounts strongly reduce profitability  
-4️⃣ West region generates the highest total profit  
-5️⃣ Sales increased significantly after 2015  
-6️⃣ Standard shipping dominates total sales  
-7️⃣ Consumer segment generates most revenue  
+4️⃣ Sales show strong seasonality with peaks toward year-end (late 2014)
+5️⃣ Standard shipping dominates total sales
+6️⃣ Consumer segment generates most revenue  
 
 ---
 
